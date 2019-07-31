@@ -33,7 +33,7 @@ gem 'bcrypt', '~> 3.1.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'graphql', '1.7.4'
+gem 'graphql', '1.9.9'
 gem 'search_object', '1.2.0'
 gem 'search_object_graphql', '0.1'
 
